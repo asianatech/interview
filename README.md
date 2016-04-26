@@ -18,7 +18,7 @@ Blog Post:
 3. Make APIs to a user to like and unlike a blog post
  
 Bonus points.
-- Implement photo upload for Post
+- Implement photo upload for Blog Post
 - Use Python
 - Implement API authentication
 
