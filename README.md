@@ -23,4 +23,4 @@ Bonus points.
 - Implement API authentication
 
 Notes:
-- Before coding, initialize a git repo in your project directory. Push your code here using <yourname> branch.
+- Before coding, initialize a git repo in your project directory. Create a new branch using your name as the branch name and push it here.
