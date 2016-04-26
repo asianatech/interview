@@ -15,7 +15,7 @@ Blog Post:
  
 1. Make APIs to create, edit and delete a user
 2. Make APIs to create, edit and delete a blog post
-3. Make APIs to a user to like and unlike a blog post
+3. Make APIs for a user to like and unlike a blog post
  
 Bonus points.
 - Implement photo upload for Blog Post
